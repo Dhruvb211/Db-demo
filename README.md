@@ -1,8 +1,4 @@
 # Db-demo
-This is practiceGit Repository
-<<<<<<< HEAD
-Author - Dhruv Biyani(Nika)
-=======
+This is practice Git Repository
 <br>
-Author - Dhruv Biyani
->>>>>>> 9ad886b147507cba94033b9568214bcb027428d3
+Author - Dhruv Biyani(Nika)
